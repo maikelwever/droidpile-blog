@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DroidPile blog</title><link>http://droidpile.org/</link><description></description><atom:link href="http://droidpile.org/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 23 Dec 2013 19:29:00 +0100</lastBuildDate><item><title>First post!</title><link>http://droidpile.org/first-post.html</link><description>&lt;p&gt;Hello all,&lt;/p&gt;
+&lt;p&gt;If you've noticed this blog, then you're probably interested in DroidPile. So what is DroidPile?&lt;/p&gt;
+&lt;p&gt;DroidPile is an idea I had some time ago, reading over the Mailpile indiegogo page. There is a perk there, to hire a developer to create a Android application, but the perk was never funded.&lt;/p&gt;
+&lt;p&gt;In February, I have to think of a assignment for school, to keep me busy for half a year, and after some consideration, I decided I wanted to create an Android application that's used as a Mailpile client.&lt;/p&gt;
+&lt;p&gt;So that's what I'll do, create an Android application that's a client for Mailpile.&lt;/p&gt;
+&lt;p&gt;The name? Not very original, right? But that is not the point of the name of the application. It is supposed to be memorable, which I think it is.&lt;/p&gt;
+&lt;p&gt;TODO: write more stuffz.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maikel Wever</dc:creator><pubDate>Mon, 23 Dec 2013 19:29:00 +0100</pubDate><guid>tag:droidpile.org,2013-12-23:first-post.html</guid></item></channel></rss>
